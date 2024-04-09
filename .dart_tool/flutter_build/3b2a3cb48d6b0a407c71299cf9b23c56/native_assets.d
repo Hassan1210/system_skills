@@ -1,0 +1,1 @@
+ /home/hassan/Downloads/skillsystem/skillsystem/.dart_tool/flutter_build/3b2a3cb48d6b0a407c71299cf9b23c56/native_assets.yaml: 
